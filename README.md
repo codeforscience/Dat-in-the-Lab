@@ -1,2 +1,4 @@
-# Dat-in-the-Lab
-The Dat in the Lab project
+# The Dat in the Lab project
+[The Dat Project](https://datproject.org/) is happy to announce that the [Gordon and Betty Moore Foundation](https://www.moore.org/) is supporting an exciting collaboration between us and the [California Digital Library](http://www.cdlib.org/) (CDL). We are calling it [Dat in the Lab](https://github.com/codeforscience/Dat-in-the-Lab). This grant will support us as we pilot Dat for research data managemnt in close collaboration with two University of California research groups and with the expert support of CDL. We will work with these researchers to develop workflows to manage, sync, version, and publish datasets.
+
+This repository will hold code, curriculum, workflows, and other outputs of the project. Follow along at the [Dat Project blog](https://blog.datproject.org/), check out the plan on our [ROADMAP.md](https://github.com/codeforscience/Dat-in-the-Lab/blob/master/ROADMAP.md), [chat with us](http://chat.datproject.org/) and follow us [on twitter](https://twitter.com/dat_project).
