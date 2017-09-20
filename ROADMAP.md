@@ -23,7 +23,6 @@ December
 January
 -
 - [ ] Second site visit to present our proposals
-- [ ]
 
 February
 - 
@@ -34,7 +33,6 @@ April
 May
 -
 - [ ] Third site visit for assessment
-- [ ]
 
 June
 - 
