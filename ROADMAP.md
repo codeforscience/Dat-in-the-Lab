@@ -2,8 +2,8 @@
 September
 - 
 - [ ] Kickoff Phone Calls
-- [ ] Announcement blog post - check the [Dat Project Blog](https://blog.datproject.org/)
-- [ ] Set up repo for collaboration
+- [x] Announcement blog post - released on the [Dat Project Blog](https://blog.datproject.org/2017/09/14/dat-in-the-lab/)
+- [x] Set up [repository for collaboration](https://github.com/codeforscience/Dat-in-the-Lab/)
 - [x] Confirm with participants
 - [x] Write up a prelim ROADMAP.md
 - [ ] Develop training materials & Intro to Dat tutorial for site visits
