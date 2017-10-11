@@ -5,4 +5,6 @@ Learn more and follow along on the [Dat project blog](https://blog.datproject.or
 
 This repository will hold code, curriculum, workflows, and other outputs of the project. 
 
+Have you ever tried Dat? Give it a shot at [try-dat.com](https://try-dat.com).
+
 Check out the plan on our [ROADMAP.md](https://github.com/codeforscience/Dat-in-the-Lab/blob/master/ROADMAP.md), [chat with us](http://chat.datproject.org/) and follow us on twitter [@dat_project](https://twitter.com/dat_project) and [@UC3CDL](https://twitter.com/UC3CDL).
