@@ -22,7 +22,7 @@ Give Dat a shot at [try-dat.com](https://try-dat.com). We created this tutorial 
 
 ## Dat Container
 
-THe mkcontainer Containerfile that builds the virtual Hoffman2 [here](https://gist.github.com/maxogden/7ad5c0e81ee003fde843f6a133d94b86).
+The mkcontainer Containerfile that builds the virtual Hoffman2 is [here](https://gist.github.com/maxogden/7ad5c0e81ee003fde843f6a133d94b86).
 
 Learn more about what we are building to Dat-ify research environments at [dat-container](https://github.com/mafintosh/dat-container) and [mkcontainer](https://github.com/mafintosh/mkcontainer). A container demo will be coming in early 2018. 
 
